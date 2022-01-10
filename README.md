@@ -31,7 +31,7 @@ This application allows users to GET, POST, PUT and DELETE items from the E-comm
 # employee-tracker Screen Shots
 
 - **Insomnia Test**
-  ![Insomnia Test](https://github.com/Ldeguzman9/employee-tracker/blob/main/assets/images/employee%20names.png?raw=true)
+  ![Insomnia Test](https://github.com/Ldeguzman9/E-commerce-Back-End/blob/main/assets/images/Screenshot%202022-01-09%20at%207.19.05%20PM.png?raw=true)
 
 # Technical Skills
 
